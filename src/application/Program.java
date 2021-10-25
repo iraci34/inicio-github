@@ -7,7 +7,9 @@ public class Program {
 	num1 = 10;
 	num2 = 20;
 	total = num1 + num2;
- 
+	
+	
+	System.out.println("Inicio Github");
 	System.out.println("Bom dia");
 	System.out.println("Bom tarde");
 	System.out.println("Boa noite");
